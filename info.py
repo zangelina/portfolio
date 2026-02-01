@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/misery.jpeg"
+profile_picture = "Images/misery.jpeg"
 about_me = "I'm Angelina Zhang. I'm a first-year Applied Physics major! In the spirit of physics, this Lab03 project will be astronomy-related."
 
 
@@ -32,7 +32,7 @@ course_data = {
     }
 experience_data = {
     "Cashier at Panera Bread": (["- Best Employee",
-                                                                          "- Handled a lot of money every day", "- Had lots of leftover cookies, treats, and food (yum)"],"images/panera.png")
+                                                                          "- Handled a lot of money every day", "- Had lots of leftover cookies, treats, and food (yum)"],"Images/panera.png")
 }
 
 projects_data = {
@@ -63,7 +63,7 @@ spoken_data = {
     "Spanish": "Intermediate",
 }
 leadership_data = {
-    "President of Tri-M Music Honor Society": (["- Helped raise over $2,500 for charity."],"images/catrinet.jpeg"), "Vice President of Model UN": (["- Hosted largest high school conference in GA"], "images/mun.jpeg")
+    "President of Tri-M Music Honor Society": (["- Helped raise over $2,500 for charity."],"Images/catrinet.jpeg"), "Vice President of Model UN": (["- Hosted largest high school conference in GA"], "Images/mun.jpeg")
 
 }
 activity_data={

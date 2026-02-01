@@ -3,7 +3,7 @@
 
 #CHANGE BELOW
 profile_picture = "Images/misery.jpeg"
-about_me = "I'm Angelina Zhang. I'm a third-year Physics & CS double major, with a Philosophy minor! I hope you like my (outdated) portfolio, which just includes the projects I have had to complete for CS courses. Please navigate to Projects to see my GT Movies Store information (Hey, I did change like a few things so it isn't entirely outdated.)"
+about_me = "I'm Angelina Zhang. I'm a third-year Physics & CS double major, with a Philosophy minor! I hope you like my (outdated) portfolio, which just includes the projects I have had to complete for CS courses. Please navigate to Projects to see my GT Movies Store information (Hey, I did change a few things so it isn't entirely outdated.)"
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -62,7 +62,7 @@ spoken_data = {
     "Spanish": "Intermediate",
 }
 leadership_data = {
-    "President of the Society of Physics Students": (["- Vice President (2025)."],"Images/catrinet.jpeg"), "CS1301 Head Teaching Assistant": (["- Exam Lead (2025)"])
+    "President of the Society of Physics Students": (["- Vice President (2025)."],"Images/catrinet.jpeg"), "CS1301 Head Teaching Assistant": (["- Exam Lead (2025)", "Images/puff.jpg"])
 
 }
 activity_data={

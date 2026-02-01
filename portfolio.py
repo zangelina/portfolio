@@ -24,6 +24,23 @@ def links_section():
     st.sidebar.markdown(email_html,unsafe_allow_html=True)
 links_section()
 
+#Projects
+def project_section(projects_data):
+    st.header("Projects")
+    for project_name, project_description in projects_data.items():
+        expander = st.expander(f"{project_name}")
+        expander.write(project_description)
+    st.write("---")
+project_section(info.projects_data)
+
+#Video Demo
+def video_section():
+    st.header("Project Demo")
+    # Replace with your actual video URL
+    video_url = "https://youtu.be/rb8GM4KUyRg"
+    st.video(video_url)
+video_section()
+
 #Education
 def education_section(education_data, course_data):
     st.header("Education")
@@ -55,15 +72,6 @@ def experience_section(experience_data):
             expander.write(bullet)
     st.write("---")
 experience_section(info.experience_data)
-
-#Projects
-def project_section(projects_data):
-    st.header("Projects")
-    for project_name, project_description in projects_data.items():
-        expander = st.expander(f"{project_name}")
-        expander.write(project_description)
-    st.write("---")
-project_section(info.projects_data)
 
 
 #Skills

@@ -62,7 +62,7 @@ spoken_data = {
     "Spanish": "Intermediate",
 }
 leadership_data = {
-    "President of the Society of Physics Students": (["- Vice President (2025)."],"Images/catrinet.jpeg"), "CS1301 Head Teaching Assistant": (["- Exam Lead (2025)]", "Images/puff.jpg")
+    "President of the Society of Physics Students": (["- Vice President (2025)."],"Images/catrinet.jpeg"), "CS1301 Head Teaching Assistant": (["- Exam Lead (2025)"], "Images/puff.jpg")
 
 }
 activity_data={
